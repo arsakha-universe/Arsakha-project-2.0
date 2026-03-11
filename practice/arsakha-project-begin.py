@@ -1,2 +1,7 @@
 print("Hello, Arsakha project begin now!")
 print("project ini dimulai sebagai escape plan dari yang ada saat ini")
+print("spesial thanks to kakak cantik yang bantu boost ini semakin cepat")
+print("maybe if she are not come with all of her charm this won't happen")
+print("so i hope this can make me take off this feeling very soon")
+print("the way you hold my hand and crying while i explain everything that so ummmm")
+print("you said u afraid if i'm leaving you but now who is leaving hehe")
