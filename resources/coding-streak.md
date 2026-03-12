@@ -1,23 +1,20 @@
-## Hari: Day 1
-## Tanggal: 11 Maret 2026
+## Hari: Day 2
+## Tanggal: 12 Maret 2026
 
 ### Materi Singkat
-- print
-- variabel
-- if else
+- input
+- perhitungan sederhana
 
 ### Praktik
-- practice/hello-world.py
-- practice/variables.py
-- practice/if-else.py
+- practice/input.py
+- practice/driver-income.py
 
 ### Catatan Ringan
-- print = menampilkan teks
-- variabel = tempat menyimpan data
-- if else = kondisi
+- input = memasukan data user
+- int = mengubah input menjadi angka
 
 ### GitHub Commit
-- [x] Commit pesan: "Day 1: Hello World, variabel, if else"
+- [x] Commit pesan: "Day 2: input user dan driver income calculator"
 
 ### Durasi Belajar
-- 25 menit
+- 30 menit
