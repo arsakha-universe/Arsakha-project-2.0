@@ -1,20 +1,22 @@
-## Hari: Day 2
+## Hari: Day 2 pt 2
 ## Tanggal: 12 Maret 2026
 
 ### Materi Singkat
-- input
-- perhitungan sederhana
+- if
+- elif
+- else
 
 ### Praktik
-- practice/input.py
-- practice/driver-income.py
+- practice/ganjil-genap.py
+- practice/target-order.py
 
 ### Catatan Ringan
-- input = memasukan data user
-- int = mengubah input menjadi angka
+- if = kondisi pertama
+- elif = kondisi tambahan
+- else = kondisi terakhir
 
 ### GitHub Commit
-- [x] Commit pesan: "Day 2: input user dan driver income calculator"
+- [x] Commit pesan: "Day 2 pt 2: praktek input ganjil-genap,if,elif,dan else"
 
 ### Durasi Belajar
-- 30 menit
+- 10 menit
