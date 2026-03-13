@@ -1,19 +1,18 @@
-## Hari: Day 3
+## Hari: Day 3 pt 2
 ## Tanggal: 13 Maret 2026
 
 ### Materi Singkat
-- loop (for)
+- while
 
 ### Praktik
-- practice/loop-angka.py
-- practice/loop-order.py
-- practice/hitung-order.py
+- practice/while-loop.py
+- practice/tunggu-order.py
 
 ### Catatan Ringan
-- for x in range merupakan kode untuk loop
+- != bermaksud ketika nilai kode tidak sama dengan value
 
 ### GitHub Commit
-- [x] Commit pesan: "Day 3: belajar loop"
+- [x] Commit pesan: "Day 3 pt 2: belajar pengunaan while"
 
 ### Durasi Belajar
-- 15 menit 
+- 15 menit
