@@ -1,18 +1,19 @@
-## Hari: Day 2 pt 3
-## Tanggal: 12 Maret 2026
+## Hari: Day 3
+## Tanggal: 13 Maret 2026
 
 ### Materi Singkat
-- operator perbandingan
+- loop (for)
 
 ### Praktik
-- practice/cek-target-pendapatan.py
-- practice/cek-order.py
+- practice/loop-angka.py
+- practice/loop-order.py
+- practice/hitung-order.py
 
 ### Catatan Ringan
-- masih sama menggunakan rumus if,elif,else.
+- for x in range merupakan kode untuk loop
 
 ### GitHub Commit
-- [x] Commit pesan: "Day 2 pt 3: operator perbandingan cek"
+- [x] Commit pesan: "Day 3: belajar loop"
 
 ### Durasi Belajar
-- 10 menit 
+- 15 menit 
