@@ -1,18 +1,16 @@
-## Hari: Day 3 pt 2
-## Tanggal: 13 Maret 2026
+## Hari: Day 4
+## Tanggal: 14 Maret 2026
 
 ### Materi Singkat
-- while
+- calculator sederhana
 
 ### Praktik
-- practice/while-loop.py
-- practice/tunggu-order.py
+- practice/driver-income.py
 
 ### Catatan Ringan
-- != bermaksud ketika nilai kode tidak sama dengan value
-
+- Latihan membuat calculator sederhana
 ### GitHub Commit
-- [x] Commit pesan: "Day 3 pt 2: belajar pengunaan while"
+- [x] Commit pesan: "Day 4: buat calculator"
 
 ### Durasi Belajar
-- 15 menit
+- 10 menit
