@@ -1,18 +1,19 @@
-## Hari: Day 5
-## Tanggal: 15 Maret 2026
+## Hari: Day 6
+## Tanggal: 16 Maret 2026
 
 ### Materi Singkat
-- mengambil data dari list
+- belajar mengisi list dari data user
 
 ### Praktik
-- practice/belajar-list.py
-- practice/list-order.py
-- practice/menghitung-total-order.py
+- practice/input-data-user.py
+- practice/list-input.py
 
 ### Catatan Ringan
-- macam macam cara pakai list
+- list kosong []
+- .append() untuk menambah data ke list
+- loop ( for i in range (): ) untuk pengulangan input
 ### GitHub Commit
-- [x] Commit pesan: "Day 5: belajar list"
+- [x] Commit pesan: "Day 6: belajar input data ke list"
 
 ### Durasi Belajar
-- 10 menit
+- 15 menit 
