@@ -1,17 +1,18 @@
-## Hari: Day 4 pt2
-## Tanggal: 14 Maret 2026
+## Hari: Day 5
+## Tanggal: 15 Maret 2026
 
 ### Materi Singkat
-- function (def, return)
+- mengambil data dari list
 
 ### Praktik
-- practice/driver-income-v3.py
-- practice/function-pendapatan.py
+- practice/belajar-list.py
+- practice/list-order.py
+- practice/menghitung-total-order.py
 
 ### Catatan Ringan
-- Belajar mengenai function agar kode bisa dipakai berulang.
+- macam macam cara pakai list
 ### GitHub Commit
-- [x] Commit pesan: "Day 4 pt 2: belajar function"
+- [x] Commit pesan: "Day 5: belajar list"
 
 ### Durasi Belajar
-- 10 menit 
+- 10 menit
