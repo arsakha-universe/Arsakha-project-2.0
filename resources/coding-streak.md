@@ -1,19 +1,17 @@
-## Hari: Day 6
-## Tanggal: 16 Maret 2026
+## Hari: Day 7
+## Tanggal: 17 Maret 2026
 
 ### Materi Singkat
-- belajar mengisi list dari data user
+- belajar tentang ditionary dasar
 
 ### Praktik
-- practice/input-data-user.py
-- practice/list-input.py
+- practice/dictionary-driver.py
 
 ### Catatan Ringan
-- list kosong []
-- .append() untuk menambah data ke list
-- loop ( for i in range (): ) untuk pengulangan input
+- dictionary tersimpan didalam {} dan dipanggil mengunakan []
+
 ### GitHub Commit
-- [x] Commit pesan: "Day 6: belajar input data ke list"
+- [x] Commit pesan: "Day 7: belajar dictionary"
 
 ### Durasi Belajar
-- 15 menit 
+- 15 menit
