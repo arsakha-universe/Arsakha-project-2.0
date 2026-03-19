@@ -1,17 +1,16 @@
-## Hari: Day 8
-## Tanggal: 18 Maret 2026
+## Hari: Day 9
+## Tanggal: 19 Maret 2026
 
 ### Materi Singkat
-- belajar tentang input ditionary
+- belajar pengunaan ditionary,list,loop dalam 1 program
 
 ### Praktik
-- practice/dictionary-input.py
+- practice/multi-driver.py
 
 ### Catatan Ringan
-- dictionary tersimpan didalam {} dan dipanggil mengunakan []
-
+- 
 ### GitHub Commit
-- [x] Commit pesan: "Day 8: belajar input dictionary"
+- [x] Commit pesan: "Day 9: belajar lebih dalam dictionary dengan fungsi yg lain"
 
 ### Durasi Belajar
-- 15 menit 
+- 20 menit 

@@ -8,10 +8,10 @@ driver = {
     "pendapatan": pendapatan
 }
 
-rata_rata = driver["order"] / driver["pendapatan"]
+rata_rata = driver["pendapatan"] / driver["order"]
 
 print("nama", driver["nama"])
-print("pendapatan:", rata_rata)
+print("rata rata:", rata_rata)
 
 bonus = 0 
 
