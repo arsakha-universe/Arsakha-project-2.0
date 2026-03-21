@@ -1,22 +1,17 @@
-## Hari: Day 10
-## Tanggal: 20 Maret 2026
+## Hari: Day 11
+## Tanggal: 21 Maret 2026
 
 ### Materi Singkat
-- penerapan list, dictionary, dan loop pada terminal sederhana
+- pengembangan tracker mengunakan loop dengan kondisi while true
 
 ### Praktik
-- practice/materi-hari-ke-14/driver-tracker.py
+- practice/materi-hari-ke-14/driver-tracker-v2.py
 
 ### Catatan Ringan
-- [] wadah dari banyak data atau list
-- {} data dengan label atau dictionary
-- for i in range (): untuk loop
-- drivers.append(driver) memasukan data ke list
-- int(input()) memasukan data dalam bentuk angka
--\n pindah baris baru atau enter agar tidak gabung
+- pengunaan loop dengan kondisi while True
 
 ### GitHub Commit
-- [x] Commit pesan: "Day 10: "penerapan materi yang dipelajari"
+- [x] Commit pesan: "Day 11: "penerapan materi yang dipelajari"
 
 ### Durasi Belajar
-- 30 menit
+- 20 menit 
