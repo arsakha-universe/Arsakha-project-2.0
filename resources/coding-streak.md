@@ -1,17 +1,18 @@
-## Hari: Day 11
-## Tanggal: 21 Maret 2026
+## Hari: Day 13
+## Tanggal: 23 Maret 2026
 
 ### Materi Singkat
-- pengembangan tracker mengunakan loop dengan kondisi while true
+- menambahkan input lebih detail untuk interaksi
 
 ### Praktik
-- practice/materi-hari-ke-14/driver-tracker-v2.py
+- practice/materi-hari-ke-16/driver-menu-v2.py
 
 ### Catatan Ringan
-- pengunaan loop dengan kondisi while True
+- mempercanggih metode input agar bisa loop didalam loop
+- memperdalam dictionary agar lebih kompleks
 
 ### GitHub Commit
-- [x] Commit pesan: "Day 11: "penerapan materi yang dipelajari"
+- [x] Commit pesan: "Day 13: "melanjutkan tambahan menu interaktif"
 
 ### Durasi Belajar
-- 20 menit 
+- 20 menit
